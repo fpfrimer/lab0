@@ -1,0 +1,24 @@
+entity soma is
+	port(
+		ai, bi	:	in		integer range 0 to 15;
+		so			:	out	integer range 0 to 15
+	);
+end entity;
+
+architecture main of soma is
+
+	function	somar(
+		a	:	integer;
+		b	:	integer
+	) return integer is
+		variable s: integer;
+	begin
+		s := a+b;
+		return s;
+	end function;
+	
+	s0 <= somar(ai, bi);
+	
+begin
+
+end architecture;

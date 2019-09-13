@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\OneDrive\Quartus\aulas\soma\simulation\qsim
+vsoma
+Z1 IJeDb^80`C]<Rd=f:X8ZFC0
+Z2 V_YQlVg:mAXG8A3lPJ_54d0
+Z3 dD:\OneDrive\Quartus\aulas\soma\simulation\qsim
+Z4 w1558439021
+Z5 8soma.vo
+Z6 Fsoma.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 mZ76Hd>V07GFN>kldojPi1
+!s85 0
+Z10 !s108 1558439022.087000
+Z11 !s107 soma.vo|
+Z12 !s90 -work|work|soma.vo|
+!s101 -O0
+vsoma_vlg_check_tst
+!i10b 1
+!s100 Q0je>;IC<>RAUJZ_UaQRg0
+IeT<]=noW54Oe_7GRGO`2G1
+V_VUo?1DkVD2z9SG^cL5MD3
+R3
+Z13 w1558439020
+Z14 8soma.vt
+Z15 Fsoma.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1558439022.340000
+Z17 !s107 soma.vt|
+Z18 !s90 -work|work|soma.vt|
+!s101 -O0
+R8
+vsoma_vlg_sample_tst
+!i10b 1
+!s100 lBZfXkC2;bH<1VfR;CY4Q0
+IAX;aU;YM;^bna8h4ab4l`0
+Vn[N=k4nH?dSL3UVR<ejRZ2
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vsoma_vlg_vec_tst
+!i10b 1
+!s100 @iPo]05NTT0`j<Y3Zi5Ud3
+I6O1<lDIDDl]KH?maGmmk?2
+V9HH_S`:[9?;lgjFiad3E22
+R3
+R13
+R14
+R15
+L0 279
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
